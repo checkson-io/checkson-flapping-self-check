@@ -1,6 +1,5 @@
 import sys
 import os
-import requests
 
 checkson_dir = os.environ['CHECKSON_DIR']
 persistent_dir = f"{checkson_dir}/persistent"
